@@ -1,0 +1,22 @@
+{
+  "name": "my-promise",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-promise.js",
+  "scripts": {
+    "test": "promises-aplus-tests my-promise"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/T-Roc/my-promise.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/T-Roc/my-promise/issues"
+  },
+  "homepage": "https://github.com/T-Roc/my-promise#readme",
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
